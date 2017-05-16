@@ -2,7 +2,7 @@
 A MySql Library for Java, Make it's work like Mysql at PHP
 
 How to use it?<br>
-Example of your 'table'
+Example of your 'table'<br>
 | firstName | midName | lastName |<br>
 |Pocket     |Man      |Sad       |<br>
 |Pocket2    |Man2     |Sad2      |<br>
